@@ -7,15 +7,6 @@ In the present scenario of pandemic, each and everyone is well known with the fa
 So, this project brings an intelligent software which will automatically segregate and organize the files and documents present in downloads section of user's system on the basis of file type (that is .txt,.docx,.jpeg etc.). Not only this but it will also take care of user's desire of setting up the location of the specific document or file along with some other vibrant features.
 Keywords: Intelligent, Organizer, File Extension
 
-![GUI Application:4](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture4.png)
-
-![GUI Application:2](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture2.png)
-
-![GUI Application:3](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture3.png)
-
-## Project Working
-
-![GUI Application:5](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture5.png)
 
 Step-1: Assembling GUI application
 Create a GUI Application using the Tkinter Module, include various functionalities such as:
