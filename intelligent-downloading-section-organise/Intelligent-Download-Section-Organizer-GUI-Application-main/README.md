@@ -1,4 +1,5 @@
-# Intelligent-Download-Section-Organizer-GUI-Application
+# Intelligent-Download-Section-Organizer
+
 
 ![GUI Application:1](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture1.png)
 
